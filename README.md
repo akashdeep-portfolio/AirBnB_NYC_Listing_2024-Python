@@ -5,7 +5,7 @@
 ## Project Overview
 This project explores 20,000+ Airbnb listings in New York City (2024) using Python-based data analysis to uncover trends in pricing, availability, and guest behavior. By applying Exploratory Data Analysis (EDA), feature engineering, and visualization techniques, we provide data-driven insights for hosts, travelers, and investors to optimize Airbnb strategies.
 
-![](https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
+![New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2](https://github.com/user-attachments/assets/92917540-6de7-4199-93c6-407a69def6fc)
 
 ---
 
