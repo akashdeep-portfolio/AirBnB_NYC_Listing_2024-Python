@@ -25,7 +25,7 @@ The goal of this project is to:
 4. Outlier Analysis to detect extreme pricing patterns.
 5. Heatmaps & Geospatial Mapping for neighborhood insights.
 
-## Dataset
+## [Dataset](https://github.com/akashdeep-portfolio/Python_project-AirBnB_NYListing_2024/blob/main/new_york_listings_2024.csv)
 The dataset used in this project is a [freely available dataset from Kaggle](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset), making it accessible for analysis, research, and visualization without any restrictions.
 The dataset contains **20,765 entries and 22 features**, including:
 - **id**: Unique identifier for each listing  
