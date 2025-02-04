@@ -120,12 +120,9 @@ The dataset contains **20,765 entries and 22 features**, including:
    - Improve **availability** and **review response rates** to attract more bookings.
    - Manage pricing effectively to compete within the borough's market.
 
----
-
-## Future Work
-- Use **machine learning** to predict prices based on room type and location.
-- Perform **sentiment analysis** on reviews to better understand guest experiences.
-- Create an **interactive dashboard** using Plotly or Tableau for live monitoring.
+- **For Investors**:
+   - Assess the most profitable neighborhoods by comparing occupancy rates, average prices, and return on investment (ROI).
+   - Analyze the demand for different property types (entire homes, private rooms, shared spaces) to make informed investment decisions.
 
 ---
 
