@@ -26,6 +26,7 @@ The goal of this project is to:
 5. Heatmaps & Geospatial Mapping for neighborhood insights.
 
 ## Dataset
+The dataset used in this project is a [freely available dataset from Kaggle](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset), making it accessible for analysis, research, and visualization without any restrictions.
 The dataset contains **20,765 entries and 22 features**, including:
 - **id**: Unique identifier for each listing  
 - **name**: Title of the Airbnb listing  
