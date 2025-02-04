@@ -1,4 +1,4 @@
-### Airbnb Listings EDA Project: New York 2024  
+### Airbnb Listings New York 2024: Insights & Strategies
 
 ---
 
