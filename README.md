@@ -129,3 +129,11 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 ## Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
+
+---
+
+## Resource
+- Dataset: Freely available on [Kaggle](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset) for public use.
+- [Python Libraries](https://github.com/akashdeep-portfolio/Python_project-AirBnB_NYListing_2024/blob/main/Python-project-AirBnb-NYListing.ipynb) Used: Pandas, NumPy, Seaborn, Matplotlib for data analysis and visualization.
+- Visualization Tools: Heatmaps, scatter plots, box plots, and pair plots for in-depth exploratory analysis.
+- Geospatial Analysis: Mapping Airbnb locations across NYC boroughs to identify high-demand areas.
