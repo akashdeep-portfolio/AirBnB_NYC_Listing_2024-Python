@@ -134,6 +134,6 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ## Resource
 - Dataset: Freely available on [Kaggle](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset) for public use.
-- [Python Libraries](https://github.com/akashdeep-portfolio/Python_project-AirBnB_NYListing_2024/blob/main/Python-project-AirBnb-NYListing.ipynb) Used: Pandas, NumPy, Seaborn, Matplotlib for data analysis and visualization.
+- [Python Libraries](https://github.com/akashdeep-portfolio/AirBnB_NYC_Listing_2024-Python/blob/main/Python_Script.ipynb) Used: Pandas, NumPy, Seaborn, Matplotlib for data analysis and visualization.
 - Visualization Tools: Heatmaps, scatter plots, box plots, and pair plots for in-depth exploratory analysis.
 - Geospatial Analysis: Mapping Airbnb locations across NYC boroughs to identify high-demand areas.
