@@ -9,7 +9,7 @@ This project explores 20,000+ Airbnb listings in New York City (2024) using Pyth
 
 ---
 
-## Key Objective
+## Key Objective - [Analysis Report](https://github.com/akashdeep-portfolio/AirBnB_NYC_Listing_2024-Python/blob/main/Analysis_Report.md)
 The goal of this project is to:
 1. Analyze pricing trends across different boroughs.
 2. Explore host behavior and listing availability.
