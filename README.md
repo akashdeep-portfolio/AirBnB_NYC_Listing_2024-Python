@@ -104,7 +104,7 @@ The dataset contains **20,765 entries and 22 features**, including:
    ```
 3. Run the **Jupyter notebook** or **Python script**:
    ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
+   jupyter notebook Python_Script.ipynb
    ```
 
 ---
